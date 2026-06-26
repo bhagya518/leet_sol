@@ -29,6 +29,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/bhagya518/leethcode/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/bhagya518/leethcode/tree/main/0056-merge-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,4 +47,8 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/bhagya518/leethcode/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
