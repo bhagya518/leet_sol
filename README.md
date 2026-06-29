@@ -34,6 +34,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhagya518/leethcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhagya518/leethcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
