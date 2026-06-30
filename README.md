@@ -34,6 +34,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/bhagya518/leethcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhagya518/leethcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/bhagya518/leethcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhagya518/leethcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhagya518/leethcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/bhagya518/leethcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
