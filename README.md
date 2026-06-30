@@ -44,16 +44,19 @@ Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhagya518/leethcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhagya518/leethcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/bhagya518/leethcode/tree/main/0079-word-search/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhagya518/leethcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhagya518/leethcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagya518/leethcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhagya518/leethcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
